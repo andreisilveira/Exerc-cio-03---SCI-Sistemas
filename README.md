@@ -15,5 +15,9 @@ Por fim, exibi o nome do aluno, sua média e seu status de aprovação na págin
 
 Usei CSS para estilizar a página e torná-la mais agradável.
 
+Para conferir o resultado você pode acessar o deploy no link abaixo:
+
+https://exercicio03-sci-sistemas.netlify.app/
+
 
 
